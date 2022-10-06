@@ -21,13 +21,6 @@ Oi, meu nome é Ana Luisa.
 
 ### 🧐 My Github stats...
 
- <div>
- <p align="left">
-   <a href="https://github.com/letpires">
-   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=letpires&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letpires&layout=compact&langs_count=16&theme=radical"/>
-<div>
-
   
  
   ![Snake animation](https://github.com/letpires/letpires/blob/output/github-contribution-grid-snake.svg)
