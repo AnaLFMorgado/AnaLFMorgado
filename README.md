@@ -19,7 +19,6 @@
 Oi, meu nome é Ana Luisa.
 
 
-### 🧐 My Github stats...
 
   
  
