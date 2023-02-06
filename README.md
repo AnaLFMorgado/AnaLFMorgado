@@ -7,7 +7,7 @@
 ### Olá pessoal 👋
 
 Oi, meu nome é Ana Luisa. <br>
-Apaixonada por Design e suas tecnologias, meu github é uma forma de me aproximar do desenvolvedor Front-end que irá utilizar minhas telas de UX/UI. ☕ <br>
+Admiro Design e suas tecnologias, meu github é uma forma de me aproximar do desenvolvedor Front-end que irá utilizar minhas telas de UX/UI. ☕ <br>
 
 <br><br><br><br><br><br>
 <img src="https://img.shields.io/badge/html%205-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=orange" />
